@@ -1,2 +1,2 @@
-# AdventOfCode
+
 Day01
